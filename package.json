@@ -1,7 +1,7 @@
 {
   "name": "image-loading",
   "version": "1.0.0",
-  "description": "Component de imagem melhorado com carregamento no inicio",
+  "description": "Componente de imagem aprimorado com funcionalidade de pré-carregamento e predefinição de imagem",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
